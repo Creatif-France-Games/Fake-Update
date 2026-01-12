@@ -1,7 +1,10 @@
 # Fake Update
 
-[Fake Update](https://fake-update.netlify.app) est un fork de UpdateFaker incluant une traduction française en cours de développement. Ci-dessous le README original
+[Fake Update](https://fake-update.netlify.app) est un fork de UpdateFaker incluant une traduction française.
+D'autres écrans (notament Windows 11)seront probablement ajoutés dans le futur.
 
+
+README du projet original
 ## Update Faker
 
 Update Faker allows you to "fake a system update", it's the perfect way to prank your friends, family members or colleagues. Especially when they're working on something rather important. 
