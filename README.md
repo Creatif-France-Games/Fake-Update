@@ -1,4 +1,8 @@
-# UpdateFaker
+# Fake Update
+
+[Fake Update](https://fake-update.netlify.app) est un fork de UpdateFaker incluant une traduction française en cours de développement. Ci-dessous le README original
+
+## Update Faker
 
 Update Faker allows you to "fake a system update", it's the perfect way to prank your friends, family members or colleagues. Especially when they're working on something rather important. 
 While they are away from their PC navigate to this website (updatefaker.com) and click on one of the appropriate themes below. Once they arrive back at their computer they will almost certainly start to freak out. 
